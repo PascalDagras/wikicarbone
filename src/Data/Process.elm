@@ -37,8 +37,8 @@ weaving : Process
 weaving =
     { id = "p2"
     , name = "Tissage & tricotage"
-    , country = Country.China -- note: ADEME makes Asia the default for weaving
-    , editable = False
+    , country = Country.France
+    , editable = True
     }
 
 
