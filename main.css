@@ -11112,6 +11112,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.fs-7 {
+  font-size: 0.85rem;
+}
+
 .md-content h2, .md-content .h2 {
   border-top: 1px solid #ccc;
   font-size: 1.5em;
