@@ -11115,6 +11115,9 @@ textarea.form-control-lg {
 .fs-7 {
   font-size: 0.85rem;
 }
+.fs-70p {
+  font-size: 80%;
+}
 
 .md-content h2, .md-content .h2 {
   border-top: 1px solid #ccc;
