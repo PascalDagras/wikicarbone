@@ -11112,6 +11112,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.icon {
+  vertical-align: text-bottom;
+}
+
 .fs-7 {
   font-size: 0.85rem;
 }
