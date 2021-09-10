@@ -11112,6 +11112,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  background-color: #333;
+}
+
 .fs-7 {
   font-size: 0.85rem;
 }
