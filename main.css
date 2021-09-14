@@ -11123,6 +11123,10 @@ body {
   font-size: 80%;
 }
 
+.invert {
+  filter: invert(1);
+}
+
 .md-content h2, .md-content .h2 {
   border-top: 1px solid #ccc;
   font-size: 1.5em;
