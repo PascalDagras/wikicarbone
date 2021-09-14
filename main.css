@@ -11116,6 +11116,12 @@ body {
   background-color: #333;
 }
 
+@media screen and (max-width: 576px) {
+  .app-navbar-nav {
+    width: 100%;
+  }
+}
+
 .fs-7 {
   font-size: 0.85rem;
 }
